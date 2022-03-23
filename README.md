@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mxmlnlrcn
+- 👋 Hi, I am Maximiliano Alarcón
 - 👀 I’m interested in Machine Learning, Internet of Things and quantum computing
 - 📫 Email: maxealarconl@gmail.com
 - 👔 LinkedIn : https://www.linkedin.com/in/maximiliano-alarcon-ab8a75144/
