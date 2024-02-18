@@ -3,5 +3,6 @@
 - 📫 Email: maxealarconl@gmail.com
 - 👔 LinkedIn: https://www.linkedin.com/in/maximiliano-alarcon/
 - 📞 Phone: +61 478760453
+- 🛠️ Toolset: Python, SQL, Power BI and more
 
 
